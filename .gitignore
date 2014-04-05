@@ -4,7 +4,6 @@ backups/**
 /eshell/lastdir
 /image-dired
 /.smex-items
-/init.el
 /newsticker
 /places
 /tramp
