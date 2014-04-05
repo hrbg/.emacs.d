@@ -1,0 +1,11 @@
+auto-save-list/**
+backups/**
+/eshell/history
+/eshell/lastdir
+/image-dired
+/.smex-items
+/init.el
+/newsticker
+/places
+/tramp
+/url/cookies
